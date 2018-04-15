@@ -1,0 +1,9 @@
+..\obj\loopif.o: ..\lwip-1.4.1\src\netif\loopif.c
+..\obj\loopif.o: ..\lwip-1.4.1\src\include\lwip/opt.h
+..\obj\loopif.o: ..\lwip-1.4.1\test\unit\lwipopts.h
+..\obj\loopif.o: ..\lwip-1.4.1\src\include\lwip/debug.h
+..\obj\loopif.o: ..\lwip-1.4.1\src\include\lwip/arch.h
+..\obj\loopif.o: ..\lwip-1.4.1\src\arch/cc.h
+..\obj\loopif.o: ..\lwip-1.4.1\src\arch/cpu.h
+..\obj\loopif.o: D:\software\mdk523\ARM\ARMCC\Bin\..\include\stdio.h
+..\obj\loopif.o: ..\lwip-1.4.1\src\include\lwip/opt.h

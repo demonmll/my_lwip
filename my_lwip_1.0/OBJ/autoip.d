@@ -1,0 +1,9 @@
+..\obj\autoip.o: ..\lwip-1.4.1\src\core\ipv4\autoip.c
+..\obj\autoip.o: ..\lwip-1.4.1\src\include\lwip/opt.h
+..\obj\autoip.o: ..\lwip-1.4.1\test\unit\lwipopts.h
+..\obj\autoip.o: ..\lwip-1.4.1\src\include\lwip/debug.h
+..\obj\autoip.o: ..\lwip-1.4.1\src\include\lwip/arch.h
+..\obj\autoip.o: ..\lwip-1.4.1\src\arch/cc.h
+..\obj\autoip.o: ..\lwip-1.4.1\src\arch/cpu.h
+..\obj\autoip.o: D:\software\mdk523\ARM\ARMCC\Bin\..\include\stdio.h
+..\obj\autoip.o: ..\lwip-1.4.1\src\include\lwip/opt.h
